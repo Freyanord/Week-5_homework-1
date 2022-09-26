@@ -25,6 +25,8 @@ h2 {
         margin-right: 10px;
         margin-bottom: 0px;
         min-height: 300px;
+        display: flex;
+        align-items: stretch;
     }
     .main {
         float: left;
@@ -42,6 +44,10 @@ h2 {
     h3 {
         font-size: 20px;
         font-style: italic;
+        color: darkmagenta;
+    }
+    p {
+        font-size: 15px;
     }
     .images {
         display: flex;
